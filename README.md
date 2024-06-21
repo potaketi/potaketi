@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @potaketi
-- 👀 I’m interested in Data Privacy and cybersec
-- 🌱 I’m currently learning NIS application, and ETH
-- 😄 Pronouns: mike/oxlong
+ Hi, I’m @potaketi
+ I’m interested in Steganography and cryptography
+ I’m currently learning NIS application, and ETH
+ 06.21
 
 
